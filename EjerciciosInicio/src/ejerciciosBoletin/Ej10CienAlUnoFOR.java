@@ -15,4 +15,4 @@ public class Ej10CienAlUnoFOR {
 	}
 
 }
-//Hola//
+//Soncronizar repos va a hacer que se me caiga el pelo antes de tiempoo//
